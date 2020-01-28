@@ -1,0 +1,32 @@
+"Country","code","category","Indicator","disaggregations","Type"
+"Madagascar","Malaria I-1(M):","Impact","Malaria I-1(M): Cas de paludisme enregistrés, présumés et confirmés","Définition des cas,Espèce,Age",914251
+"Madagascar","Malaria I-2.1:","Impact","Malaria I-2.1: Cas de paludisme confirmés (par microscopie ou test de dépistage rapide) : taux pour 1000 habitants par an","0",37.05
+"Madagascar","Malaria I-3.1(M):","Impact","Malaria I-3.1(M): Nombre de décès de patients hospitalisés dus au paludisme : taux pour 100 000 habitants par an","Age",1.69
+"Madagascar","Malaria I-4:","Impact","Malaria I-4: Taux de positivité aux tests de paludisme","Espèce,Type de tests",41.7
+"Madagascar","Malaria I-5:","Impact","Malaria I-5: Prévalence parasitaire palustre : proportion d'enfants âgés de 6 à 59 mois présentant une infection palustre","Sexe",0.07
+"Madagascar","Malaria I-6:","Impact","Malaria I-6: Taux de mortalité des enfants de moins de 5 ans, toutes causes confondues, pour 1000 naissances vivantes","Sexe",45
+"Madagascar","Malaria O-1a:","Outcome","Malaria O-1a: Proportion de la population ayant dormi sous une moustiquaire imprégnée d'insecticide la nuit précédente","Sexe",0.682
+"Madagascar","Malaria O-1b:","Outcome","Malaria O-1b: Proportion d'enfants de moins de cinq ans qui ont dormi la nuit précédente sous une moustiquaire imprégnée d’insecticide*","0",0.73
+"Madagascar","Malaria O-1c:","Outcome","Malaria O-1c: Proportion de femmes enceintes qui ont dormi sous une moustiquaire imprégnée d’insecticide* la nuit précédente","0",0.69
+"Madagascar","Malaria O-6:","Outcome","Malaria O-6: Proportion de ménages disposant d'au moins une moustiquaire imprégnée d'insecticide pour deux personnes","0",0.54
+"Madagascar","Malaria O-4:","Outcome","Malaria O-4: Proportion de ménages équipés d'au moins une moustiquaire imprégnée d'insecticide pour deux personnes et/ou ayant fait l'objet de pulvérisation intradomiciliaire d'insecticide à effet rémanent au cours des 12 derniers mois","0",0.81
+"Madagascar","VC-3(M):","Coverage","VC-3(M): Nombre de moustiquaires imprégnées d'insecticide de longue durée distribuées de manière continue aux groupes à risque cibles","Groupe à risque cible",0
+"Madagascar","VC-3(Other):","Coverage","VC-3(Other): Nombre de moustiquaires imprégnées d'insecticide de longue durée distribuées à travers le Marketing Social","0",0
+"Madagascar","CM-1a(M):","Coverage","CM-1a(M): Proportion de cas suspect de paludisme soumis à un test parasitologique dans des établissements de santé du secteur public","Age,Type de tests",0.903
+"Madagascar","CM-1b(M):","Coverage","CM-1b(M): Proportion de cas suspects de paludisme soumis à un test parasitologique dans la communauté","Type de tests,Age",0.808
+"Madagascar","CM-1c(M):","Coverage","CM-1c(M): Proportion de cas suspects de paludisme soumis à un test parasitologique dans des locaux du secteur privé","Type de tests,Age",0.782
+"Madagascar","CM-2a(M):","Coverage","CM-2a(M): Proportion de cas de paludisme confirmés ayant reçu un traitement antipaludique de première intention, conformément à la politique nationale, dans des établissements de santé du secteur public","Age",0.936
+"Madagascar","CM-2b(M):","Coverage","CM-2b(M): Proportion de cas de paludisme confirmés ayant reçu un traitement antipaludique de première intention dans la communauté","Age",0.838
+"Madagascar","CM-2c(M):","Coverage","CM-2c(M): Proportion de cas de paludisme confirmés ayant reçu un traitement antipaludique de première intention dans des locaux du secteur privé","Age",0.883
+"Madagascar","SPI-1:","Coverage","SPI-1: Pourcentage de femmes bénéficiant de services de soins prénatals ayant reçu au moins 3 doses de traitement préventif intermittent","0",0.222
+"Madagascar","M&E-1:","Coverage","M&E-1: Pourcentage d’entités déclarantes présentant leurs rapports dans les délais selon les directives nationales","0",0.777
+"Madagascar","HSS-other1","Coverage","HSS-other1- Pourcentage d'alertes verifiées sur les alertes notifiées","0",0.795
+"South Sudan","Malaria O-2:","Outcome","Malaria O-2: Proportion of population with access to an ITN within their household","0",NA
+"South Sudan","Malaria O-7(M):","Outcome","Malaria O-7(M): Percentage of existing ITNs used the previous night","0",NA
+"South Sudan","VC-1(M):","Coverage","VC-1(M): Number of long-lasting insecticidal nets distributed to at-risk populations through mass campaigns","0",0
+"South Sudan","CM-3a:","Coverage","CM-3a: Proportion of malaria cases (presumed and confirmed) that received first line antimalarial treatment at public sector health facilities","Age",0.337
+"South Sudan","CM-3b:","Coverage","CM-3b: Proportion of malaria cases (presumed and confirmed) that received first line antimalarial treatment in the community","Age",1
+"South Sudan","CM-4:","Coverage","CM-4: Proportion of health facilities without stock-outs of key commodities during the reporting period","0",0.989
+"South Sudan","M&E-2:","Coverage","M&E-2: Proportion of facility reports received over the reports expected during the reporting period","0",0.766
+"South Sudan","Custom:","Coverage","Custom: Percentage of CBDs submitting monthly reports during the reporting period (PSI)",NA,0.972
+"Mali","SPI-2:","Coverage","SPI-2: Pourcentage d'enfants de 3-59 mois ayant reçu le nombre total de doses de CPS (chimio-prophylaxie saisonnière) (3 ou 4) pour la saison de transmission dans les zones cibles","Sexe",NA
